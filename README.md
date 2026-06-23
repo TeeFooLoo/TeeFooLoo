@@ -20,6 +20,27 @@ I enjoy designing documentation systems that help developers succeed by combinin
 
 ---
 
+## 🚀 Featured Project
+
+### Documentation Systems Lab
+
+An open-source exploration of **Documentation Engineering**—applying architecture, governance, automation, AI, and continuous delivery principles to modern technical documentation.
+
+Highlights include:
+
+- Documentation Principles
+- Documentation Delivery Architecture
+- Content Models
+- Documentation Governance
+- AI-assisted Documentation Workflows
+- Atlas Commerce (Reference Implementation)
+
+**Repository**
+
+https://github.com/TeeFooLoo/documentation-systems-lab
+
+---
+
 ## 🛠️ Technologies & Tools
 
 **Documentation**
